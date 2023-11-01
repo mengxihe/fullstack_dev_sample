@@ -1,6 +1,6 @@
 # AAM-Small-App
 ##### Version 1.0
-![Demo Animation](https://example.com/demo.gif)
+![Demo Animation](https://github.com/mengxihe/fullstack_dev_sample/blob/main/gif/smaller.gif)
 
 
 ---
