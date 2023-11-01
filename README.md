@@ -1,4 +1,4 @@
-# AAM-Small-App
+# CityPlanning-Small-App
 ##### Version 1.0
 ![Demo Animation](https://github.com/mengxihe/fullstack_dev_sample/blob/main/gif/appgif.gif)
 
@@ -6,7 +6,7 @@
 ---
 ## Overview
 
-AAM-Small-App is a small webapp that allows you to customize the 3d model of a masterplan. You have the ability to 
+CityPlanning-Small-App is a small webapp that allows you to customize the 3d model of a masterplan. You have the ability to 
 - change the hight of the buildings 
 - the width of different types of roads
 - the density level of the trees 
